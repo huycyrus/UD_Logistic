@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834300310303",
+    "project_id": "ud-logistic-e200c",
+    "storage_bucket": "ud-logistic-e200c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834300310303:android:28b4b3d552c6d41590b62a",
+        "android_client_info": {
+          "package_name": "com.example.udlogistic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834300310303-e66ro1lqskuk6frk9ruv01mak1dq1e3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGvLXunjN8FUr7CqPHhNvHzNXTKRBFei4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834300310303-e66ro1lqskuk6frk9ruv01mak1dq1e3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
